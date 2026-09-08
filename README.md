@@ -47,9 +47,7 @@ After that, I simply slid the phone out to insert the button caps.
 
 The aluminum pipes were done in a strange way. I wanted to have a thread on the end of each tube, but standard pipes had holes that were too wide, and the bolts would easily fall right into them. So instead, I took a solid rod and used a drill as a makeshift lathe, holding the drill bit with pliers... ahh, it was just messy. Don't try that at home... 
 
-<img width="4080" height="3072" alt="PXL_20260907_192316232" src="https://github.com/user-attachments/assets/09bbae45-82cb-4681-a4da-8c0472b23b42" />
-<img width="3072" height="2456" alt="PXL_20260721_231444995" src="https://github.com/user-attachments/assets/24fdcb3c-dbeb-4b37-8d90-7a43f471feb5" />
-
-
 Then there was some weird threaded rod fun. All of this was needed to create a constant-friction hinge, which works pretty well. It's a bit loose, but that's an issue with the spring...
 
+
+<img width="3072" height="2456" alt="PXL_20260721_231444995" src="https://github.com/user-attachments/assets/24fdcb3c-dbeb-4b37-8d90-7a43f471feb5" />
