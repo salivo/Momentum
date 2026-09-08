@@ -1,7 +1,7 @@
 # Momentum
 Hand-crafted dual-screen cyberdeck
 
-<img width="4080" height="3072" alt="PXL_20260907_192316232" src="https://github.com/user-attachments/assets/c50c1261-9413-4660-a2ef-9683a5b13dd1" />
+<img width="4080" height="3072" alt="PXL_20260907_192316232" src="https://github.com/user-attachments/assets/21af8df7-9838-4f01-bb4d-eadb53848c49" />
 
 
 ## Background story:
