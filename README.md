@@ -51,3 +51,13 @@ Then there was some weird threaded rod fun. All of this was needed to create a c
 
 
 <img width="3072" height="2456" alt="PXL_20260721_231444995" src="https://github.com/user-attachments/assets/24fdcb3c-dbeb-4b37-8d90-7a43f471feb5" />
+
+
+# 3D Models
+
+I'm sharing the files here so you can recreate what I did. 
+Everything was modeled in FreeCAD.
+
+# License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
