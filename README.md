@@ -52,6 +52,13 @@ Then there was some weird threaded rod fun. All of this was needed to create a c
 
 <img width="3072" height="2456" alt="PXL_20260721_231444995" src="https://github.com/user-attachments/assets/24fdcb3c-dbeb-4b37-8d90-7a43f471feb5" />
 
+# Software
+
+I run my own port of Arch Linux here. You can see how to build the packages and rootfs needed for a minimal boot here: [alarm-sargo](https://github.com/salivo/alarm-sargo).
+
+As a WM, I use Hyprland because I'm used to it. 
+
+The secondary phone runs my own onscreen keyboard, [rosk](https://github.com/salivo/rosk).
 
 # 3D Models
 
